@@ -15,7 +15,7 @@
 - [Technologies Used](#-technologies-used)
 - [Screenshots](#-screenshots)
 - [How to Run Locally](#-how-to-run-locally)
-- [Deployment Strategy](#-deployment-strategy)
+- [Deployment Strategy](#https://github.com/MadniSheikh/Coffee/edit/main/README.md#%EF%B8%8F-deployment-strategy)
 - [Future Improvements](#-future-improvements)
 
 ---
@@ -29,11 +29,11 @@ The primary goal of this project was to master **CSS Flexbox** for layout manage
 
 ## ✨ Key Features
 
-* **Responsive Navigation Bar:** * Features a flexible layout that adapts from a horizontal menu on desktop to a stacked, touch-friendly layout on mobile.
-* **CSS Grid & Flexbox Layouts:** * utilized for the product cards (Hot/Cold coffee sections) and the footer to ensure alignment and spacing consistency.
-* **Multi-Page Architecture:** * Includes distinct pages for Home (`index.html`), Bakery (`bakery.html`), About Us (`about.html`), Outlets (`outlets.html`), and Login (`login.html`).
-* **Interactive Elements:** * Hover effects on buttons, navigation links, and product cards to enhance user engagement.
-* **Semantic HTML5:** * Proper use of `<header>`, `<main>`, `<footer>`, and `<section>` tags for better accessibility and SEO structure.
+* **Responsive Navigation Bar:** Features a flexible layout that adapts from a horizontal menu on desktop to a stacked, touch-friendly layout on mobile.
+* **CSS Grid & Flexbox Layouts:** Utilized for the product cards (Hot/Cold coffee sections) and the footer to ensure alignment and spacing consistency.
+* **Multi-Page Architecture:** Includes distinct pages for Home (`index.html`), Bakery (`bakery.html`), About Us (`about.html`), Outlets (`outlets.html`), and Login (`login.html`).
+* **Interactive Elements:** Hover effects on buttons, navigation links, and product cards to enhance user engagement.
+* **Semantic HTML5:** Proper use of `<header>`, `<main>`, `<footer>`, and `<section>` tags for better accessibility and SEO structure.
 
 ---
 
@@ -50,7 +50,7 @@ The primary goal of this project was to master **CSS Flexbox** for layout manage
 
 | Desktop View | Mobile View |
 |:---:|:---:|
-| ![Desktop Screenshot](https://placehold.co/600x400?text=Upload+Your+Desktop+Screenshot+Here) | ![Mobile Screenshot](https://placehold.co/200x400?text=Mobile+View) |
+| <img width="1897" height="867" alt="Coffee-Desktop-View" src="https://github.com/user-attachments/assets/994a3a81-cad1-4f9d-becf-b7498a4ebbd8" /> | <img height="867" alt="Coffee-Mobile-view" src="https://github.com/user-attachments/assets/531bc033-e786-41f5-ae07-0f0aae25bd82" /> |
 
 ---
 
@@ -60,11 +60,11 @@ To view this project on your local machine:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+    git clone https://github.com/MadniSheikh/Coffee.git
     ```
 2.  **Navigate to the folder:**
     ```bash
-    cd your-repo-name
+    cd Coffee
     ```
 3.  **Open the file:**
     * Simply double-click `index.html` to open it in your default browser.
@@ -95,5 +95,5 @@ To take this project to the next level, I plan to add:
 
 ### Author
 **Mohmedmadni Sheikh**
-* [GitHub Profile](https://github.com/MadniSheikh)
-* [LinkedIn](www.linkedin.com/in/mohmedmadni-sheikh-)
+* [Click here for GitHub Profile](https://github.com/MadniSheikh)
+* [Click here for LinkedIn](https://www.linkedin.com/in/mohmedmadni-sheikh-)
